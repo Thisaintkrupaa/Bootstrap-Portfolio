@@ -2,9 +2,9 @@
 
 created Portfolio using HTML CSS and Bootstrap
 
-# Screenshot of work
+# Screenshot 
 
-<img width="1680" alt="Screenshot 2024-01-19 at 23 44 02" src="https://github.com/Thisaintkrupaa/Bootstrap-Portfolio/assets/115632825/74ff6c39-e7c8-41b7-86c3-facac7033e14">
+<img width="1680" alt="Screenshot 2024-01-19 at 23 53 01" src="https://github.com/Thisaintkrupaa/Bootstrap-Portfolio/assets/115632825/223349c6-eb4d-41f1-ab0c-aac62a0cb5c4">
 
 
 ## Copyright
